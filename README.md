@@ -1,4 +1,4 @@
-# Vertical and Chiseled Planks!
+# Concrete Bricks!
 
 This mod adds new concrete brick blocks for all 16 concrete blocks to your server (but also works in singleplayer).
 
@@ -19,7 +19,7 @@ and fabric api (used by both dependencies)
 
 # Recipes
 
-- 4x4 concrete blocks of any color for concrete bricksin that color
+- 2x2 concrete blocks of any color for concrete bricksin that color
 
 # Command
 
