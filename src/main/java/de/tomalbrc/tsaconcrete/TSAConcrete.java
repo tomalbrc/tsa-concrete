@@ -33,7 +33,7 @@ public class TSAConcrete implements ModInitializer {
             e.printStackTrace();
         }
 
-        PolymerResourcePackUtils.addModAssets("toms-vertical-planks");
+        PolymerResourcePackUtils.addModAssets("tsa-concrete");
         PolymerResourcePackUtils.markAsRequired();
     }
     public void registerBlocks(String path) {
