@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "tsa-concrete",
+  "version": "${version}",
+  "name": "tsa-concrete",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/tomalbrc/tsa-concrete"
+  },
+  "license": "MIT",
+  "icon": "tsa-concrete-icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.tomalbrc.tsaconcrete.TSAConcrete"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "filament": ">=0.3.3"
+  }
+}
