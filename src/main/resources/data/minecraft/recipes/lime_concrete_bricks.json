@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:lime_concrete_bricks",
+        "id": "tsa:lime_concrete_bricks",
         "count": 4
     }
 }

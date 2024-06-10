@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:gray_concrete_bricks",
+        "id": "tsa:gray_concrete_bricks",
         "count": 4
     }
 }

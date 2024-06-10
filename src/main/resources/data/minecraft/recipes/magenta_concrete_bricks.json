@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:magenta_concrete_bricks",
+        "id": "tsa:magenta_concrete_bricks",
         "count": 4
     }
 }
