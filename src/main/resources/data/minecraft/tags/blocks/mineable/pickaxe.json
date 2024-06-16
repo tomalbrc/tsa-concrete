@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "tsa:pink_concrete_bricks",
+    "tsa:light_blue_concrete_bricks",
+    "tsa:gray_concrete_bricks",
+    "tsa:orange_concrete_bricks",
+    "tsa:lime_concrete_bricks",
+    "tsa:red_concrete_bricks",
+    "tsa:green_concrete_bricks",
+    "tsa:blue_concrete_bricks",
+    "tsa:white_concrete_bricks",
+    "tsa:light_gray_concrete_bricks",
+    "tsa:magenta_concrete_bricks",
+    "tsa:black_concrete_bricks",
+    "tsa:brown_concrete_bricks",
+    "tsa:yellow_concrete_bricks",
+    "tsa:cyan_concrete_bricks",
+    "tsa:purple_concrete_bricks"
+  ]
+}
