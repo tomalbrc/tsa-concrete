@@ -6,8 +6,8 @@
       }
    },
    "properties" : {
-      "blockBase" : "minecraft:black_concrete",
-      "itemBase" : "minecraft:paper"
+      "destroyTime": 1.8,
+      "blockBase" : "minecraft:black_concrete"
    },
    "blockModelType" : "full_block"
 }

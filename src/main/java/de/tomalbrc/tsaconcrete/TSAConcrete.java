@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import de.tomalbrc.filament.api.FilamentLoader;
 import eu.pb4.polymer.resourcepack.api.PolymerResourcePackUtils;
 import net.fabricmc.api.ModInitializer;
+import net.minecraft.world.level.block.Blocks;
 import org.slf4j.Logger;
 
 public class TSAConcrete implements ModInitializer {
