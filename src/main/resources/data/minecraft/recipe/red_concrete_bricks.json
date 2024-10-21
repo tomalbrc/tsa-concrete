@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:red_concrete"
-        }
+        "#": "minecraft:red_concrete"
     },
     "result": {
         "id": "tsa:red_concrete_bricks",

@@ -2,7 +2,7 @@
    "id" : "tsa:lime_concrete_bricks",
    "blockResource": {
       "models" : {
-         "default" : "minecraft:custom/block/concrete/lime_concrete_bricks"
+         "default" : "minecraft:item/custom/block/concrete/lime_concrete_bricks"
       }
    },
    "properties" : {

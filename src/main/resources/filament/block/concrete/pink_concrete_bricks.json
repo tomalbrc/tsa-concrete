@@ -2,7 +2,7 @@
    "id" : "tsa:pink_concrete_bricks",
    "blockResource": {
       "models" : {
-         "default" : "minecraft:custom/block/concrete/pink_concrete_bricks"
+         "default" : "minecraft:item/custom/block/concrete/pink_concrete_bricks"
       }
    },
    "properties" : {

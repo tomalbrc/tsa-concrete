@@ -2,7 +2,7 @@
    "id" : "tsa:black_concrete_bricks",
    "blockResource": {
       "models" : {
-         "default" : "minecraft:custom/block/concrete/black_concrete_bricks"
+         "default" : "minecraft:item/custom/block/concrete/black_concrete_bricks"
       }
    },
    "properties" : {

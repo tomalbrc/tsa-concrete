@@ -2,7 +2,7 @@
    "id" : "tsa:green_concrete_bricks",
    "blockResource": {
       "models" : {
-         "default" : "minecraft:custom/block/concrete/green_concrete_bricks"
+         "default" : "minecraft:item/custom/block/concrete/green_concrete_bricks"
       }
    },
    "properties" : {

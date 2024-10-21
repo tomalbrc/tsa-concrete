@@ -2,7 +2,7 @@
    "id" : "tsa:blue_concrete_bricks",
    "blockResource": {
       "models" : {
-         "default" : "minecraft:custom/block/concrete/blue_concrete_bricks"
+         "default" : "minecraft:item/custom/block/concrete/blue_concrete_bricks"
       }
    },
    "properties" : {
