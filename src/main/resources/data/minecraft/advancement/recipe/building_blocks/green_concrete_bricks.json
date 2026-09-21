@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:green_concrete_bricks"
+                "recipes": "tsa:green_concrete_bricks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

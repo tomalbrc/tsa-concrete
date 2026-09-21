@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:light_gray_concrete_bricks"
+                "recipes": "tsa:light_gray_concrete_bricks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
