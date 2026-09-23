@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cyan_concrete_bricks"
+            "tsa:cyan_concrete_bricks"
         ]
     }
 }

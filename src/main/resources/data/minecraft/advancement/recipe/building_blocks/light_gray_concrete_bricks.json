@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:light_gray_concrete_bricks"
+            "tsa:light_gray_concrete_bricks"
         ]
     }
 }
